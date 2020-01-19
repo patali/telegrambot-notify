@@ -1,0 +1,5 @@
+werkzeug==0.16.0
+sanic==19.12.2
+sanic-restful==0.0.9
+requests==2.22.0
+cryptography==2.8
